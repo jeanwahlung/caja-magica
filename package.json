@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://jeanwahlung.github.io/caja-magica/",
   "dependencies": {
+    "ajv": "^6.8.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
