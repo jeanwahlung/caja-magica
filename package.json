@@ -2,6 +2,7 @@
   "name": "prueba",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jeanwahlung.github.io/caja-magica/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
